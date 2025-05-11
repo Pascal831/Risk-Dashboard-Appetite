@@ -38,8 +38,3 @@ This project provides a snapshot of organizational risk posture through a dashbo
 - Board-level GRC documentation  
 - Risk visualization and tracking  
 
----
-
-## 📜 License
-
-This project is for educational purposes. Customize and extend freely for internal or academic use.
